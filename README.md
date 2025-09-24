@@ -30,3 +30,6 @@ DELETE /posts/{id}: Delete a post (requires token, must be post owner).
 
 License
 MIT
+
+## Milestone
+Completed on 24/09/2025 at 01:18 PM WAT as part of my 10-day GitHub streak!
